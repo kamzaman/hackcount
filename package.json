@@ -1,0 +1,27 @@
+{
+  "name": "hackcount",
+  "version": "0.1.0",
+  "description": "Number of sites sitemaker has made",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^2.14.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamzaman/hackcount.git"
+  },
+  "keywords": [
+    "count"
+  ],
+  "author": "Kam Zaman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamzaman/hackcount/issues"
+  },
+  "homepage": "https://github.com/kamzaman/hackcount"
+}
